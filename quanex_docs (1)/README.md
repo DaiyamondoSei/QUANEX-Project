@@ -49,7 +49,7 @@ The project currently includes:
 ## Links
 
 - [QUANEX Website](https://lunwtdci.manus.space/)
-- [Improved Website Demo](http://3000-i7fiup7p43yzy3orsfz5e-592b786e.manus.computer) (temporary)
+- [Improved Website Demo](https://github.com/DaiyamondoSei/QUAXWeb) (temporary)
 
 ## Academic Connection
 
